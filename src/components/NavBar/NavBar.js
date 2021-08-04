@@ -1,13 +1,13 @@
 import React, { useRef } from "react";
 import { gql, useQuery } from "@apollo/client";
-// components
-import Error from "./../Error";
-import Loader from "./../Loader";
-import TopMenu from "./../TopMenu";
-import SideMenu from "./../SideMenu";
-// hooks
+
+import Error from "../Error";
+import Loader from "../Loader";
+import TopMenu from "../TopMenu";
+import SideMenu from "../SideMenu";
+
 import useNavigation from "./../../hooks/useNavigation";
-// style
+
 import "../../styles/NavBar_style.scss";
 
 const GET_ROCKETS_NAMES = gql`
