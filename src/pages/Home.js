@@ -1,11 +1,11 @@
 import React from "react";
 import { gql, useQuery } from "@apollo/client";
 
-import Error from "../../components/Error";
-import Loader from "../../components/Loader";
-import MainHeader from "../../components/MainHeader";
+import Error from "../components/InfoTable";
+import Loader from "../components/Loader";
+import MainHeader from "../components/MainHeader";
 
-import "../../styles/Home_style.scss";
+import "../styles/Home_style.scss";
 
 const GET_COMPANY_INFO = gql`
   {

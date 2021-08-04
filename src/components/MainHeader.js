@@ -1,6 +1,6 @@
 import React from "react";
-// style
-import "../../styles/MainHeader_style.scss";
+
+import "../styles/MainHeader_style.scss";
 
 const MainHeader = ({ name, description }) => (
   <div className="container">

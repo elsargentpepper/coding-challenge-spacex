@@ -1,6 +1,6 @@
 import React from "react";
 // styles
-import "../../styles/MenuButton_style.scss";
+import "../styles/MenuButton_style.scss";
 
 const MenuButton = ({ isMenuOpen, toggleMenu }) => (
   <button

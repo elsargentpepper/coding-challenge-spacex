@@ -1,9 +1,9 @@
 import React from "react";
 import { gql, useQuery } from "@apollo/client";
 // components
-import Error from "../../components/Error";
-import Loader from "../../components/Loader";
-import Rocket from "../../components/Rocket";
+import Error from "../components/Error";
+import Loader from "../components/Loader";
+import Rocket from "../components/Rocket";
 
 const GET_ROCKET_INFO = gql`
   query GET_ROCKET_INFO($rocketId: ID!) {

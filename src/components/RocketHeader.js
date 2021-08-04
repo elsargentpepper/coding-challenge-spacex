@@ -1,6 +1,6 @@
 import React from "react";
-// style
-import "./../../styles/RocketHeader_style.scss";
+
+import "../styles/RocketHeader_style.scss";
 
 const RocketHeader = ({ id, name }) => {
   const imgStyle = {

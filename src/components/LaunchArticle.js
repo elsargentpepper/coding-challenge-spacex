@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 // style
-import "../../styles/LaunchArticle_style.scss";
+import "../styles/LaunchArticle_style.scss";
 
 const LaunchArticle = ({ name, link, imgUrl, description }) => (
   <div className="d-flex justify-content-center">

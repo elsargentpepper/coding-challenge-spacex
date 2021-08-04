@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
-// style
-import "../../styles/Logo_style.scss";
+
+import "../styles/Logo_style.scss";
 
 const spaceXLogo = () => (
   <div className="logo">

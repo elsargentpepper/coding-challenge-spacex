@@ -1,9 +1,9 @@
 import React, { Fragment } from "react";
-// components
-import RocketHeader from "../RocketHeader";
-import TechInfo from "../TechInfo";
-// style
-import "../../styles/Rocket_style.scss";
+
+import RocketHeader from "../components/RocketHeader";
+import TechInfo from "../components/TechInfo";
+
+import "../styles/Rocket_style.scss";
 
 const Rocket = ({ rocket }) => {
   const { id, name, height, diameter, stages, cost_per_launch, engines } =

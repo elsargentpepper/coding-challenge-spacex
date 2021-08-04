@@ -1,9 +1,9 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-import "../../styles/SideMenu_style.scss";
+import "../styles/SideMenu_style.scss";
 
-import MenuLinks from "../MenuLinks";
+import MenuLinks from "./MenuLinks";
 
 const SideMenu = ({ rockets, isMenuOpen, isMobileView, toggleMenu }) => (
   <div

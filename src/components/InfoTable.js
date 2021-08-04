@@ -1,6 +1,6 @@
 import React from "react";
 // style
-import "./style.scss";
+import "../styles/InfoTable_style.scss";
 
 const InfoTable = ({ title, data }) => (
   <div className="info-table col-12 col-md-8 col-lg-7 d-flex flex-column justify-content-center">
