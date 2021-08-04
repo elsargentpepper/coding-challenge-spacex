@@ -1,3 +1,3 @@
-import InfoTable from "./InfoTable";
+import InfoTable from "../../styles/InfoTable_style.scss";
 
 export default InfoTable;

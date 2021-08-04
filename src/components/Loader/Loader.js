@@ -1,6 +1,6 @@
 import React from "react";
 // style
-import "./style.scss";
+import "../../styles/Loader_style.scss";
 
 const Loader = () => (
   <div className="loader__container d-flex justify-content-center align-items-center">
