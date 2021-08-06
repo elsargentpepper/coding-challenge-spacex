@@ -26,23 +26,23 @@ I used [Vercel](https://vercel.com) to deploy this web app
 ## Demo
 
 ### Homepage
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/elsargentpepper/yema-coding-challenge/main/public/assets/Demo%201.jpg" width=600>
 </p>
 
 ### Toggle side menu
-<p align="left">
-  <img src="https://raw.githubusercontent.com/elsargentpepper/yema-coding-challenge/main/public/assets/Demo%202.jpg" width=600>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/elsargentpepper/yema-coding-challenge/development/public/assets/Demo%202.jpg" width=600>
 </p>
 
 ### Rockets
-<p align="left">
-  <img src="https://raw.githubusercontent.com/elsargentpepper/yema-coding-challenge/main/public/assets/Demo%203.jpg" width=600>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/elsargentpepper/yema-coding-challenge/development/public/assets/Demo%203.jpg" width=600>
 </p>
 
 ### Past launches
-<p align="left">
-  <img src="https://raw.githubusercontent.com/elsargentpepper/yema-coding-challenge/main/public/assets/Demo%202.jpg" width=600>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/elsargentpepper/yema-coding-challenge/development/public/assets/Demo%204.jpg" width=600>
 </p>
 
 
