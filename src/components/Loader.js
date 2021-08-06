@@ -1,5 +1,5 @@
 import React from "react";
-// style
+
 import "../styles/Loader_style.scss";
 
 const Loader = () => (
