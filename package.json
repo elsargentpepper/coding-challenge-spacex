@@ -39,23 +39,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "This project is a coding challenge for Yema.mx in React",
-  "main": "index.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/elsargentpepper/yema-coding-challenge.git"
-  },
-  "keywords": [
-    "React",
-    "GraphQL",
-    "CodingChallenge"
-  ],
-  "author": "Elsa Portilla <elsa.portilla@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/elsargentpepper/yema-coding-challenge/issues"
-  },
-  "homepage": "https://github.com/elsargentpepper/yema-coding-challenge#readme"
+  }
 }
