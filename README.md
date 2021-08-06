@@ -25,11 +25,34 @@ I used [Vercel](https://vercel.com) to deploy this web app
 
 ## Demo
 
+### Homepage
+<p align="left">
+  <img src="https://raw.githubusercontent.com/elsargentpepper/yema-coding-challenge/main/public/assets/Demo%201.jpg" width=600>
+</p>
+
+### Toggle side menu
+<p align="left">
+  <img src="https://raw.githubusercontent.com/elsargentpepper/yema-coding-challenge/main/public/assets/Demo%202.jpg" width=600>
+</p>
+
+### Rockets
+<p align="left">
+  <img src="https://raw.githubusercontent.com/elsargentpepper/yema-coding-challenge/main/public/assets/Demo%203.jpg" width=600>
+</p>
+
+### Past launches
+<p align="left">
+  <img src="https://raw.githubusercontent.com/elsargentpepper/yema-coding-challenge/main/public/assets/Demo%202.jpg" width=600>
+</p>
 
 
 ## Key Features
 
--  
+- Get information from [SpaceX API](https://api.spacex.land/graphql/)
+- Toggle side menu and navbar
+- Display hi-res images of launches
+- Display detailed information of rockets 
+- Responsive mobile-first
 
 ## How To Use
 
@@ -55,6 +78,7 @@ This app uses the following open source packages:
 
 - [React](https://reactjs.org)
 - [Apollo](https://www.apollographql.com)
+- [Bootstrap](https://getbootstrap.com)
 
 
 ## Author
